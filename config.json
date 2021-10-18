@@ -1,0 +1,9 @@
+{
+    "Token": "bot-token",
+    "Prefix": "your-prefix",
+    "Channel Names": ["Nuke by DEEM", "EZ NUKE", "DEEM NUKER"],
+    "Role Names": ["DEEM WAS HERE", "NUKED BY DEEM", "EZ NUKE"],
+    "Webhook Usernames": ["NUKED BY DEEM", "DEEM ON TOP"],
+    "Spam Messages": ["@everyone NUKED BY DEEM | https://dsc.gg/deemgang", "@everyone xd"],
+    "Bot": true
+ }
